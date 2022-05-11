@@ -42,7 +42,7 @@
     "createWindow": "新建窗口",
     "recenterWindows": "居中窗口",
     "keyboard": "键盘",
-    "unpinAll": "全部取消置顶",
+    "unpinAll": "全部取消钉选",
     "layouts": "布局",
     "settings": "设置",
     "deleteAll": "全部删除",
@@ -58,7 +58,7 @@
 
   "COMMENT": "Window Settings Panel",
     "autoHide": "自动隐藏",
-    "pin": "置顶",
+    "pin": "钉选",
     "blockInput": "锁定输入",
     "lock": "锁定",
     "opacity": "透明度",
