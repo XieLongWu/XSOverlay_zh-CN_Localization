@@ -41,11 +41,11 @@
   "COMMENT": "Global Toolbar button tooptip labels",
     "createWindow": "新建窗口",
     "recenterWindows": "居中窗口",
-    "keyboard": "键盘",
-    "unpinAll": "全部取消钉选",
-    "layouts": "布局",
-    "settings": "设置",
-    "deleteAll": "全部删除",
+    "keyboard": "叠加键盘",
+    "unpinAll": "取消钉选",
+    "layouts": "叠加窗口",
+    "settings": "叠加设置",
+    "deleteAll": "删除全部",
     "windowSwitcher": "网格视图",
 
   "COMMENT": "Window Toolbar button tooltip labels",
@@ -53,7 +53,7 @@
     "monitorSelection": "屏幕",
 
   "COMMENT": "Wrist Button Labels and Tooltips",
-    "layoutMode": "布局模式",
+    "layoutMode": "叠加模式",
     "mediaControls": "媒体控制",
 
   "COMMENT": "Window Settings Panel",
